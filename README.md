@@ -43,7 +43,8 @@ Dikembangkan dengan antarmuka modern berbasis **React + Tailwind CSS** dan di-*d
 
 ## 📸 Cuplikan Tampilan
 
-![Preview Screenshot](./public/preview.png)
+![Preview Screenshot](./public/preview1.png)
+![Preview Screenshot](./public/preview2.png)
 
 ## 👨‍💻 Author
 - **Abdul Hafiz As Syamil (NIM: 220170160)**
