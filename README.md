@@ -20,7 +20,7 @@ Dikembangkan dengan antarmuka modern berbasis **React + Tailwind CSS** dan di-*d
 
 ## 🧩 Teknologi yang Digunakan
 
-###⚙️ Frontend
+### ⚙️ Frontend
 - 🟢 **Node.js** `v24.11.0`
 - ⚛️ **React Router DOM**
 - 🎨 **Tailwind CSS**
